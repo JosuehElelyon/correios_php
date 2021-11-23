@@ -1,11 +1,5 @@
 # Correios PHP SDK
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![CircleCI][icon-circleci]][link-circleci]
-[![Codecov][icon-codecov]][link-codecov]
-[![Software License][ico-license]](LICENSE.md)
-[![Total Downloads][ico-downloads]][link-downloads]
-
 Uma maneira fácil de interagir com as principais funcionalidades dos [Correios](https://correios.com.br).
 
 ## Funcionalidades
